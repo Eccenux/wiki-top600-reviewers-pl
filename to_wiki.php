@@ -49,14 +49,16 @@ $wiki = '';
 echo "\n[INFO] Strating loop...";
 foreach($data->rows as $row) {
 	$numRow++;
-	
-	// top600
-	if ($numRow > 600) {
-		break;
-	}
 	$r = new TopReviewer($row);
 	
+	// top600, but make sure we show all users tied on last place
+	if ($numRow > 600 && $prev != $r->review_count) {
+		break;
+	}
+	
 	$wiki .= "\n|-\n| $numRow || [[User:{$r->actor_name}|{$r->actor_name}]] || {$r->review_count} || {$r->review_count_intial} || {$r->review_count_total}";
+
+	$prev = $r->review_count;
 }
 $wiki .=  "\n|}\n";
 
