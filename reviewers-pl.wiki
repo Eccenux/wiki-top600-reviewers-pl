@@ -1,0 +1,1202 @@
+
+|-
+| 1 || [[User:Jaszczuroczłek|Jaszczuroczłek]] || 14462 || 68 || 14530
+|-
+| 2 || [[User:PawełMM|PawełMM]] || 10206 || 294 || 10500
+|-
+| 3 || [[User:Czyz1|Czyz1]] || 6555 || 25 || 6580
+|-
+| 4 || [[User:Salicyna|Salicyna]] || 5653 || 174 || 5827
+|-
+| 5 || [[User:Stok|Stok]] || 5441 || 26 || 5467
+|-
+| 6 || [[User:Elfhelm|Elfhelm]] || 5438 || 46 || 5484
+|-
+| 7 || [[User:Serecki|Serecki]] || 4719 || 16 || 4735
+|-
+| 8 || [[User:Matekm|Matekm]] || 4070 || 10 || 4080
+|-
+| 9 || [[User:Rzuwig|Rzuwig]] || 3905 || 436 || 4341
+|-
+| 10 || [[User:Pachidensha|Pachidensha]] || 3821 || 112 || 3933
+|-
+| 11 || [[User:Nama.Asal|Nama.Asal]] || 3574 || 162 || 3736
+|-
+| 12 || [[User:Michał Sobkowski|Michał Sobkowski]] || 3132 || 174 || 3306
+|-
+| 13 || [[User:Cybularny|Cybularny]] || 2875 || 357 || 3232
+|-
+| 14 || [[User:Lord Ya|Lord Ya]] || 2778 || 4 || 2782
+|-
+| 15 || [[User:Elster|Elster]] || 2533 || 0 || 2533
+|-
+| 16 || [[User:Wargo|Wargo]] || 2521 || 44 || 2565
+|-
+| 17 || [[User:Ignasiak|Ignasiak]] || 2402 || 6 || 2408
+|-
+| 18 || [[User:Ented|Ented]] || 2397 || 95 || 2492
+|-
+| 19 || [[User:Swmar|Swmar]] || 2264 || 56 || 2320
+|-
+| 20 || [[User:Wiklol|Wiklol]] || 2237 || 21 || 2258
+|-
+| 21 || [[User:Ciacho5|Ciacho5]] || 2146 || 85 || 2231
+|-
+| 22 || [[User:Boston9|Boston9]] || 2050 || 10 || 2060
+|-
+| 23 || [[User:Jckowal|Jckowal]] || 2044 || 157 || 2201
+|-
+| 24 || [[User:Zwiadowca21|Zwiadowca21]] || 1969 || 11 || 1980
+|-
+| 25 || [[User:Jacek Fink-Finowicki|Jacek Fink-Finowicki]] || 1940 || 20 || 1960
+|-
+| 26 || [[User:Ciszema|Ciszema]] || 1885 || 2 || 1887
+|-
+| 27 || [[User:Kenraiz|Kenraiz]] || 1680 || 74 || 1754
+|-
+| 28 || [[User:Andrzei111|Andrzei111]] || 1644 || 136 || 1780
+|-
+| 29 || [[User:Camomilla|Camomilla]] || 1580 || 32 || 1612
+|-
+| 30 || [[User:Gdarin|Gdarin]] || 1554 || 122 || 1676
+|-
+| 31 || [[User:WTM|WTM]] || 1469 || 233 || 1702
+|-
+| 32 || [[User:Baarttekk5020100|Baarttekk5020100]] || 1397 || 0 || 1397
+|-
+| 33 || [[User:RoodyAlien|RoodyAlien]] || 1321 || 15 || 1336
+|-
+| 34 || [[User:Bart0012|Bart0012]] || 1295 || 442 || 1737
+|-
+| 35 || [[User:Karol Virgin|Karol Virgin]] || 1170 || 45 || 1215
+|-
+| 36 || [[User:Andros64|Andros64]] || 1146 || 5 || 1151
+|-
+| 37 || [[User:Tomasz Raburski|Tomasz Raburski]] || 1050 || 71 || 1121
+|-
+| 38 || [[User:Rrudzik|Rrudzik]] || 1039 || 0 || 1039
+|-
+| 39 || [[User:XaxeLoled|XaxeLoled]] || 1008 || 0 || 1008
+|-
+| 40 || [[User:Darekm135|Darekm135]] || 987 || 2 || 989
+|-
+| 41 || [[User:Thraen|Thraen]] || 979 || 29 || 1008
+|-
+| 42 || [[User:Piastu|Piastu]] || 962 || 51 || 1013
+|-
+| 43 || [[User:Orbwiki107|Orbwiki107]] || 899 || 7 || 906
+|-
+| 44 || [[User:Maattik|Maattik]] || 895 || 134 || 1029
+|-
+| 45 || [[User:Barcival|Barcival]] || 893 || 5 || 898
+|-
+| 46 || [[User:Cynko|Cynko]] || 882 || 7 || 889
+|-
+| 47 || [[User:PMG|PMG]] || 862 || 24 || 886
+|-
+| 48 || [[User:Bartos005|Bartos005]] || 853 || 1 || 854
+|-
+| 49 || [[User:Pawmak|Pawmak]] || 848 || 6 || 854
+|-
+| 50 || [[User:Ptr192|Ptr192]] || 832 || 95 || 927
+|-
+| 51 || [[User:Bo Ytterby|Bo Ytterby]] || 817 || 68 || 885
+|-
+| 52 || [[User:Tokyotown8|Tokyotown8]] || 800 || 23 || 823
+|-
+| 53 || [[User:Maikking|Maikking]] || 777 || 23 || 800
+|-
+| 54 || [[User:GiantBroccoli|GiantBroccoli]] || 773 || 16 || 789
+|-
+| 55 || [[User:Miki1234568|Miki1234568]] || 758 || 24 || 782
+|-
+| 56 || [[User:Godai|Godai]] || 735 || 11 || 746
+|-
+| 57 || [[User:Mix321|Mix321]] || 727 || 2 || 729
+|-
+| 58 || [[User:Michczu|Michczu]] || 722 || 12 || 734
+|-
+| 59 || [[User:Lowdown|Lowdown]] || 701 || 16 || 717
+|-
+| 60 || [[User:Gjakovarus|Gjakovarus]] || 664 || 2 || 666
+|-
+| 61 || [[User:Nedops|Nedops]] || 655 || 255 || 910
+|-
+| 62 || [[User:Alan ffm|Alan ffm]] || 654 || 39 || 693
+|-
+| 63 || [[User:MOs810|MOs810]] || 623 || 4 || 627
+|-
+| 64 || [[User:Nadzik|Nadzik]] || 583 || 234 || 817
+|-
+| 65 || [[User:Felis domestica|Felis domestica]] || 579 || 26 || 605
+|-
+| 66 || [[User:Kbigeo|Kbigeo]] || 574 || 18 || 592
+|-
+| 67 || [[User:Alvea|Alvea]] || 569 || 9 || 578
+|-
+| 68 || [[User:Swd|Swd]] || 568 || 11 || 579
+|-
+| 69 || [[User:Hektor Absurdus|Hektor Absurdus]] || 565 || 0 || 565
+|-
+| 70 || [[User:Edk|Edk]] || 556 || 0 || 556
+|-
+| 71 || [[User:Nux|Nux]] || 553 || 2 || 555
+|-
+| 72 || [[User:Msz2001|Msz2001]] || 549 || 35 || 584
+|-
+| 73 || [[User:Micbog|Micbog]] || 542 || 0 || 542
+|-
+| 74 || [[User:Pbk|Pbk]] || 540 || 4 || 544
+|-
+| 75 || [[User:Pskosinski|Pskosinski]] || 528 || 18 || 546
+|-
+| 76 || [[User:Grzegorz B.|Grzegorz B.]] || 528 || 2 || 530
+|-
+| 77 || [[User:Magalia|Magalia]] || 521 || 6 || 527
+|-
+| 78 || [[User:Mathieu Mars|Mathieu Mars]] || 512 || 85 || 597
+|-
+| 79 || [[User:Smat|Smat]] || 507 || 31 || 538
+|-
+| 80 || [[User:KristoffZZ|KristoffZZ]] || 505 || 9 || 514
+|-
+| 81 || [[User:Ptjackyll|Ptjackyll]] || 502 || 4 || 506
+|-
+| 82 || [[User:Polk|Polk]] || 498 || 2 || 500
+|-
+| 83 || [[User:Casfaber|Casfaber]] || 483 || 0 || 483
+|-
+| 84 || [[User:B-X|B-X]] || 480 || 2 || 482
+|-
+| 85 || [[User:Openbk|Openbk]] || 479 || 386 || 865
+|-
+| 86 || [[User:Małgorzata Kufel|Małgorzata Kufel]] || 439 || 24 || 463
+|-
+| 87 || [[User:Etup45|Etup45]] || 431 || 3 || 434
+|-
+| 88 || [[User:Sir Lothar|Sir Lothar]] || 430 || 25 || 455
+|-
+| 89 || [[User:Fafik|Fafik]] || 425 || 2 || 427
+|-
+| 90 || [[User:Mithoron|Mithoron]] || 423 || 20 || 443
+|-
+| 91 || [[User:Mpn|Mpn]] || 410 || 51 || 461
+|-
+| 92 || [[User:RafaEl030794|RafaEl030794]] || 399 || 0 || 399
+|-
+| 93 || [[User:Kocurwaclaw|Kocurwaclaw]] || 399 || 0 || 399
+|-
+| 94 || [[User:Świętokrzyskie3|Świętokrzyskie3]] || 384 || 8 || 392
+|-
+| 95 || [[User:Wiktoryn|Wiktoryn]] || 383 || 4 || 387
+|-
+| 96 || [[User:Emptywords|Emptywords]] || 382 || 16 || 398
+|-
+| 97 || [[User:Malarz pl|Malarz pl]] || 379 || 23 || 402
+|-
+| 98 || [[User:Yashaa|Yashaa]] || 378 || 21 || 399
+|-
+| 99 || [[User:Niegodzisie|Niegodzisie]] || 376 || 18 || 394
+|-
+| 100 || [[User:Kerim44|Kerim44]] || 376 || 2 || 378
+|-
+| 101 || [[User:Razar-ww|Razar-ww]] || 367 || 13 || 380
+|-
+| 102 || [[User:Tomasz Jacek Wójcik|Tomasz Jacek Wójcik]] || 367 || 2 || 369
+|-
+| 103 || [[User:Warszawiak22|Warszawiak22]] || 361 || 201 || 562
+|-
+| 104 || [[User:Paterm|Paterm]] || 360 || 1 || 361
+|-
+| 105 || [[User:Marekm246|Marekm246]] || 359 || 1 || 360
+|-
+| 106 || [[User:Linshi2|Linshi2]] || 356 || 5 || 361
+|-
+| 107 || [[User:Regan1973|Regan1973]] || 356 || 1 || 357
+|-
+| 108 || [[User:Krzysio.szubzda.1|Krzysio.szubzda.1]] || 355 || 0 || 355
+|-
+| 109 || [[User:Lukasz Lukomski|Lukasz Lukomski]] || 352 || 0 || 352
+|-
+| 110 || [[User:Snoflaxe|Snoflaxe]] || 348 || 0 || 348
+|-
+| 111 || [[User:Michge|Michge]] || 341 || 0 || 341
+|-
+| 112 || [[User:SpiderMum|SpiderMum]] || 336 || 14 || 350
+|-
+| 113 || [[User:Pawel Niemczuk|Pawel Niemczuk]] || 332 || 22 || 354
+|-
+| 114 || [[User:Gregok|Gregok]] || 332 || 2 || 334
+|-
+| 115 || [[User:Maciej9876543210|Maciej9876543210]] || 321 || 39 || 360
+|-
+| 116 || [[User:Maciusk2002|Maciusk2002]] || 318 || 0 || 318
+|-
+| 117 || [[User:Magen|Magen]] || 314 || 1 || 315
+|-
+| 118 || [[User:H.Rabiega|H.Rabiega]] || 313 || 8 || 321
+|-
+| 119 || [[User:Piotras18|Piotras18]] || 313 || 1 || 314
+|-
+| 120 || [[User:Havarese|Havarese]] || 308 || 780 || 1088
+|-
+| 121 || [[User:Ghańczyk3456|Ghańczyk3456]] || 302 || 0 || 302
+|-
+| 122 || [[User:Selso|Selso]] || 299 || 3 || 302
+|-
+| 123 || [[User:Adm02|Adm02]] || 297 || 310 || 607
+|-
+| 124 || [[User:Lahcim n|Lahcim n]] || 296 || 4 || 300
+|-
+| 125 || [[User:Mateuszgdynia|Mateuszgdynia]] || 293 || 0 || 293
+|-
+| 126 || [[User:Gonzuchna|Gonzuchna]] || 291 || 62 || 353
+|-
+| 127 || [[User:Ysska|Ysska]] || 289 || 2 || 291
+|-
+| 128 || [[User:Offeliaa|Offeliaa]] || 289 || 1 || 290
+|-
+| 129 || [[User:Tom Ja|Tom Ja]] || 286 || 7 || 293
+|-
+| 130 || [[User:IOIOI|IOIOI]] || 280 || 63 || 343
+|-
+| 131 || [[User:LukiP82|LukiP82]] || 278 || 1 || 279
+|-
+| 132 || [[User:Tar Lócesilion|Tar Lócesilion]] || 271 || 5 || 276
+|-
+| 133 || [[User:Gytha|Gytha]] || 268 || 4 || 272
+|-
+| 134 || [[User:TheTNT1500|TheTNT1500]] || 264 || 4 || 268
+|-
+| 135 || [[User:DariaPolonia|DariaPolonia]] || 263 || 7 || 270
+|-
+| 136 || [[User:Jano0|Jano0]] || 257 || 9 || 266
+|-
+| 137 || [[User:Nowy15|Nowy15]] || 252 || 1 || 253
+|-
+| 138 || [[User:D T G|D T G]] || 250 || 7 || 257
+|-
+| 139 || [[User:AndyAn|AndyAn]] || 250 || 0 || 250
+|-
+| 140 || [[User:Matrek|Matrek]] || 246 || 1 || 247
+|-
+| 141 || [[User:Ulv80|Ulv80]] || 240 || 23 || 263
+|-
+| 142 || [[User:Ytabak|Ytabak]] || 240 || 6 || 246
+|-
+| 143 || [[User:Wanted|Wanted]] || 237 || 0 || 237
+|-
+| 144 || [[User:Morcius|Morcius]] || 234 || 114 || 348
+|-
+| 145 || [[User:Zielu20|Zielu20]] || 232 || 22 || 254
+|-
+| 146 || [[User:JppPL|JppPL]] || 225 || 0 || 225
+|-
+| 147 || [[User:Roman Miller|Roman Miller]] || 223 || 1 || 224
+|-
+| 148 || [[User:Marcyś 1971|Marcyś 1971]] || 223 || 0 || 223
+|-
+| 149 || [[User:Mach240390|Mach240390]] || 220 || 0 || 220
+|-
+| 150 || [[User:Dawidst|Dawidst]] || 217 || 8 || 225
+|-
+| 151 || [[User:Dj Kriszna|Dj Kriszna]] || 217 || 0 || 217
+|-
+| 152 || [[User:PawelNorbertStrzelecki|PawelNorbertStrzelecki]] || 212 || 0 || 212
+|-
+| 153 || [[User:Czarnybog|Czarnybog]] || 208 || 2 || 210
+|-
+| 154 || [[User:Rav kr|Rav kr]] || 207 || 1 || 208
+|-
+| 155 || [[User:Matandun|Matandun]] || 207 || 1 || 208
+|-
+| 156 || [[User:Cloefor|Cloefor]] || 200 || 38 || 238
+|-
+| 157 || [[User:Gabriel3|Gabriel3]] || 199 || 8 || 207
+|-
+| 158 || [[User:Szyign|Szyign]] || 199 || 6 || 205
+|-
+| 159 || [[User:Runab|Runab]] || 199 || 1 || 200
+|-
+| 160 || [[User:Gruzin|Gruzin]] || 199 || 0 || 199
+|-
+| 161 || [[User:Kpjas|Kpjas]] || 194 || 119 || 313
+|-
+| 162 || [[User:Julo|Julo]] || 194 || 6 || 200
+|-
+| 163 || [[User:Michu1945|Michu1945]] || 194 || 0 || 194
+|-
+| 164 || [[User:Mati142|Mati142]] || 192 || 2 || 194
+|-
+| 165 || [[User:Halfbricking|Halfbricking]] || 183 || 0 || 183
+|-
+| 166 || [[User:Michael Tav|Michael Tav]] || 181 || 118 || 299
+|-
+| 167 || [[User:Masur|Masur]] || 176 || 33 || 209
+|-
+| 168 || [[User:Piotr967|Piotr967]] || 176 || 3 || 179
+|-
+| 169 || [[User:Zabadinho|Zabadinho]] || 174 || 1 || 175
+|-
+| 170 || [[User:DS limak|DS limak]] || 174 || 0 || 174
+|-
+| 171 || [[User:Chris-dlc|Chris-dlc]] || 172 || 1 || 173
+|-
+| 172 || [[User:Hoa binh|Hoa binh]] || 169 || 5 || 174
+|-
+| 173 || [[User:Daroooo|Daroooo]] || 167 || 47 || 214
+|-
+| 174 || [[User:Kra77|Kra77]] || 167 || 2 || 169
+|-
+| 175 || [[User:Parabarchan|Parabarchan]] || 166 || 4 || 170
+|-
+| 176 || [[User:MarMi wiki|MarMi wiki]] || 166 || 0 || 166
+|-
+| 177 || [[User:Carabus|Carabus]] || 163 || 3 || 166
+|-
+| 178 || [[User:Andrzej94|Andrzej94]] || 159 || 3 || 162
+|-
+| 179 || [[User:Maire|Maire]] || 159 || 2 || 161
+|-
+| 180 || [[User:Mike210381|Mike210381]] || 158 || 5 || 163
+|-
+| 181 || [[User:MMAxp11|MMAxp11]] || 158 || 4 || 162
+|-
+| 182 || [[User:StSierż|StSierż]] || 156 || 0 || 156
+|-
+| 183 || [[User:JanPalony40|JanPalony40]] || 156 || 0 || 156
+|-
+| 184 || [[User:Kamilhrub|Kamilhrub]] || 155 || 7 || 162
+|-
+| 185 || [[User:Foma|Foma]] || 155 || 0 || 155
+|-
+| 186 || [[User:Damian1906|Damian1906]] || 154 || 0 || 154
+|-
+| 187 || [[User:Nicolauskas|Nicolauskas]] || 153 || 1 || 154
+|-
+| 188 || [[User:Aight 2009|Aight 2009]] || 152 || 0 || 152
+|-
+| 189 || [[User:Szoltys|Szoltys]] || 151 || 24 || 175
+|-
+| 190 || [[User:Beno|Beno]] || 151 || 4 || 155
+|-
+| 191 || [[User:Wojsław Brożyna|Wojsław Brożyna]] || 151 || 0 || 151
+|-
+| 192 || [[User:Pawel Dymanski|Pawel Dymanski]] || 150 || 1 || 151
+|-
+| 193 || [[User:WażneT|WażneT]] || 150 || 0 || 150
+|-
+| 194 || [[User:Maciejr|Maciejr]] || 149 || 0 || 149
+|-
+| 195 || [[User:Delta 51|Delta 51]] || 148 || 9 || 157
+|-
+| 196 || [[User:Wolfgang|Wolfgang]] || 148 || 0 || 148
+|-
+| 197 || [[User:TR|TR]] || 144 || 8 || 152
+|-
+| 198 || [[User:Kobrabones|Kobrabones]] || 143 || 8 || 151
+|-
+| 199 || [[User:Nonander|Nonander]] || 142 || 1 || 143
+|-
+| 200 || [[User:Gower|Gower]] || 138 || 13 || 151
+|-
+| 201 || [[User:Buldożer|Buldożer]] || 138 || 2 || 140
+|-
+| 202 || [[User:Whiteman|Whiteman]] || 137 || 5 || 142
+|-
+| 203 || [[User:Thorongilion|Thorongilion]] || 137 || 1 || 138
+|-
+| 204 || [[User:Braniewiak|Braniewiak]] || 134 || 20 || 154
+|-
+| 205 || [[User:Adamt|Adamt]] || 134 || 16 || 150
+|-
+| 206 || [[User:MiłyMiłosz|MiłyMiłosz]] || 134 || 3 || 137
+|-
+| 207 || [[User:D kuba|D kuba]] || 132 || 13 || 145
+|-
+| 208 || [[User:Famkolei|Famkolei]] || 131 || 49 || 180
+|-
+| 209 || [[User:Klarqa|Klarqa]] || 131 || 19 || 150
+|-
+| 210 || [[User:Maleed|Maleed]] || 131 || 1 || 132
+|-
+| 211 || [[User:TomRad888|TomRad888]] || 130 || 15 || 145
+|-
+| 212 || [[User:Wipur|Wipur]] || 130 || 2 || 132
+|-
+| 213 || [[User:Rafciu60|Rafciu60]] || 127 || 10 || 137
+|-
+| 214 || [[User:ElCet|ElCet]] || 126 || 7 || 133
+|-
+| 215 || [[User:IMnext|IMnext]] || 126 || 2 || 128
+|-
+| 216 || [[User:Gungir1983|Gungir1983]] || 126 || 0 || 126
+|-
+| 217 || [[User:Jaceksoci68|Jaceksoci68]] || 124 || 5 || 129
+|-
+| 218 || [[User:99kerob|99kerob]] || 122 || 4 || 126
+|-
+| 219 || [[User:Fallaner|Fallaner]] || 122 || 3 || 125
+|-
+| 220 || [[User:Duży Bartek|Duży Bartek]] || 121 || 30 || 151
+|-
+| 221 || [[User:PiTeRoVs|PiTeRoVs]] || 121 || 0 || 121
+|-
+| 222 || [[User:Krynia26|Krynia26]] || 121 || 0 || 121
+|-
+| 223 || [[User:RoclorD|RoclorD]] || 120 || 0 || 120
+|-
+| 224 || [[User:Tufor|Tufor]] || 119 || 29 || 148
+|-
+| 225 || [[User:Bart Corke|Bart Corke]] || 119 || 11 || 130
+|-
+| 226 || [[User:BasileusAutokratorPL|BasileusAutokratorPL]] || 119 || 0 || 119
+|-
+| 227 || [[User:Onectus|Onectus]] || 119 || 0 || 119
+|-
+| 228 || [[User:Marcowy Człowiek|Marcowy Człowiek]] || 117 || 1 || 118
+|-
+| 229 || [[User:Viatoro|Viatoro]] || 116 || 1 || 117
+|-
+| 230 || [[User:Pit rock|Pit rock]] || 115 || 5 || 120
+|-
+| 231 || [[User:Dreamcatcher25|Dreamcatcher25]] || 115 || 4 || 119
+|-
+| 232 || [[User:Ironupiwada|Ironupiwada]] || 115 || 0 || 115
+|-
+| 233 || [[User:Matti1990|Matti1990]] || 114 || 1 || 115
+|-
+| 234 || [[User:Pawelmhm|Pawelmhm]] || 114 || 0 || 114
+|-
+| 235 || [[User:Cyborian|Cyborian]] || 113 || 1 || 114
+|-
+| 236 || [[User:LKR23|LKR23]] || 113 || 1 || 114
+|-
+| 237 || [[User:Happa|Happa]] || 112 || 5 || 117
+|-
+| 238 || [[User:Cz ja|Cz ja]] || 110 || 2 || 112
+|-
+| 239 || [[User:L.zurawski|L.zurawski]] || 110 || 0 || 110
+|-
+| 240 || [[User:Najntisy|Najntisy]] || 109 || 0 || 109
+|-
+| 241 || [[User:Wojciech Pędzich|Wojciech Pędzich]] || 108 || 237 || 345
+|-
+| 242 || [[User:Azymut|Azymut]] || 108 || 9 || 117
+|-
+| 243 || [[User:Kacperpawlak|Kacperpawlak]] || 108 || 0 || 108
+|-
+| 244 || [[User:Hebius|Hebius]] || 108 || 0 || 108
+|-
+| 245 || [[User:Marcin.ms|Marcin.ms]] || 107 || 6 || 113
+|-
+| 246 || [[User:Ludek Geograf|Ludek Geograf]] || 107 || 1 || 108
+|-
+| 247 || [[User:Dorja|Dorja]] || 107 || 0 || 107
+|-
+| 248 || [[User:Micpol|Micpol]] || 107 || 0 || 107
+|-
+| 249 || [[User:Plogeo|Plogeo]] || 107 || 0 || 107
+|-
+| 250 || [[User:W2k2|W2k2]] || 106 || 1 || 107
+|-
+| 251 || [[User:Grzegorz Browarski|Grzegorz Browarski]] || 106 || 0 || 106
+|-
+| 252 || [[User:Jazin|Jazin]] || 104 || 7 || 111
+|-
+| 253 || [[User:Klima|Klima]] || 104 || 0 || 104
+|-
+| 254 || [[User:Zorro2212|Zorro2212]] || 103 || 2 || 105
+|-
+| 255 || [[User:Rdrozd|Rdrozd]] || 103 || 0 || 103
+|-
+| 256 || [[User:94pb|94pb]] || 102 || 15 || 117
+|-
+| 257 || [[User:Zsuetam|Zsuetam]] || 102 || 11 || 113
+|-
+| 258 || [[User:Bonvol|Bonvol]] || 102 || 6 || 108
+|-
+| 259 || [[User:Popek04|Popek04]] || 101 || 5 || 106
+|-
+| 260 || [[User:Einsbor|Einsbor]] || 101 || 1 || 102
+|-
+| 261 || [[User:J.Dygas|J.Dygas]] || 101 || 0 || 101
+|-
+| 262 || [[User:Kggucwa|Kggucwa]] || 100 || 2 || 102
+|-
+| 263 || [[User:Frangern|Frangern]] || 99 || 0 || 99
+|-
+| 264 || [[User:Tadam|Tadam]] || 98 || 1 || 99
+|-
+| 265 || [[User:Fruflea|Fruflea]] || 98 || 1 || 99
+|-
+| 266 || [[User:Dzony336|Dzony336]] || 98 || 0 || 98
+|-
+| 267 || [[User:Therud|Therud]] || 97 || 2 || 99
+|-
+| 268 || [[User:RadLes|RadLes]] || 97 || 0 || 97
+|-
+| 269 || [[User:Matinee71|Matinee71]] || 96 || 4 || 100
+|-
+| 270 || [[User:Mpfiz|Mpfiz]] || 96 || 1 || 97
+|-
+| 271 || [[User:Czymjestlogika|Czymjestlogika]] || 95 || 7 || 102
+|-
+| 272 || [[User:WrS.tm.pl|WrS.tm.pl]] || 95 || 3 || 98
+|-
+| 273 || [[User:Koroniec|Koroniec]] || 95 || 0 || 95
+|-
+| 274 || [[User:Qzior|Qzior]] || 93 || 0 || 93
+|-
+| 275 || [[User:Soldier of Wasteland|Soldier of Wasteland]] || 92 || 5 || 97
+|-
+| 276 || [[User:Kelvin|Kelvin]] || 92 || 0 || 92
+|-
+| 277 || [[User:Maitake|Maitake]] || 91 || 1 || 92
+|-
+| 278 || [[User:Ark|Ark]] || 91 || 1 || 92
+|-
+| 279 || [[User:Hikaru012|Hikaru012]] || 91 || 0 || 91
+|-
+| 280 || [[User:Mitrovitz|Mitrovitz]] || 90 || 1 || 91
+|-
+| 281 || [[User:Krystian031994|Krystian031994]] || 90 || 0 || 90
+|-
+| 282 || [[User:Gbylski|Gbylski]] || 89 || 58 || 147
+|-
+| 283 || [[User:Radek wl|Radek wl]] || 89 || 1 || 90
+|-
+| 284 || [[User:Antoni18072016|Antoni18072016]] || 89 || 0 || 89
+|-
+| 285 || [[User:CelStrzel|CelStrzel]] || 87 || 32 || 119
+|-
+| 286 || [[User:Uzyj|Uzyj]] || 87 || 0 || 87
+|-
+| 287 || [[User:Polimerek|Polimerek]] || 85 || 6 || 91
+|-
+| 288 || [[User:Incognityzm|Incognityzm]] || 85 || 0 || 85
+|-
+| 289 || [[User:PiotrMig|PiotrMig]] || 84 || 66 || 150
+|-
+| 290 || [[User:Subtropical-man|Subtropical-man]] || 83 || 4 || 87
+|-
+| 291 || [[User:Rybulo7|Rybulo7]] || 83 || 0 || 83
+|-
+| 292 || [[User:Mafo|Mafo]] || 83 || 0 || 83
+|-
+| 293 || [[User:Pleoniak|Pleoniak]] || 83 || 0 || 83
+|-
+| 294 || [[User:Pikador|Pikador]] || 82 || 11 || 93
+|-
+| 295 || [[User:Mika58|Mika58]] || 82 || 11 || 93
+|-
+| 296 || [[User:Wostr|Wostr]] || 82 || 3 || 85
+|-
+| 297 || [[User:Loraine|Loraine]] || 82 || 2 || 84
+|-
+| 298 || [[User:Panek|Panek]] || 81 || 21 || 102
+|-
+| 299 || [[User:King10|King10]] || 81 || 4 || 85
+|-
+| 300 || [[User:S.Czachorowski|S.Czachorowski]] || 81 || 1 || 82
+|-
+| 301 || [[User:Maćko|Maćko]] || 81 || 0 || 81
+|-
+| 302 || [[User:Coulson18|Coulson18]] || 80 || 5 || 85
+|-
+| 303 || [[User:Jakubus03|Jakubus03]] || 80 || 0 || 80
+|-
+| 304 || [[User:Wikipek|Wikipek]] || 79 || 2 || 81
+|-
+| 305 || [[User:LechitaPL|LechitaPL]] || 79 || 1 || 80
+|-
+| 306 || [[User:KoverasLupus|KoverasLupus]] || 78 || 1 || 79
+|-
+| 307 || [[User:X-domin|X-domin]] || 78 || 0 || 78
+|-
+| 308 || [[User:Gżdacz|Gżdacz]] || 77 || 1 || 78
+|-
+| 309 || [[User:Gobo1954|Gobo1954]] || 77 || 0 || 77
+|-
+| 310 || [[User:Merc777|Merc777]] || 76 || 9 || 85
+|-
+| 311 || [[User:Kub347|Kub347]] || 76 || 1 || 77
+|-
+| 312 || [[User:KamilK7|KamilK7]] || 75 || 5 || 80
+|-
+| 313 || [[User:DentArt|DentArt]] || 75 || 0 || 75
+|-
+| 314 || [[User:IP Man|IP Man]] || 75 || 0 || 75
+|-
+| 315 || [[User:Kriis bis|Kriis bis]] || 75 || 0 || 75
+|-
+| 316 || [[User:Lelek 2v|Lelek 2v]] || 73 || 1 || 74
+|-
+| 317 || [[User:Tomasz Bladyniec|Tomasz Bladyniec]] || 73 || 1 || 74
+|-
+| 318 || [[User:Pozdrawiam|Pozdrawiam]] || 73 || 1 || 74
+|-
+| 319 || [[User:Spacejam2|Spacejam2]] || 73 || 0 || 73
+|-
+| 320 || [[User:Joanna Kośmider|Joanna Kośmider]] || 73 || 0 || 73
+|-
+| 321 || [[User:Artur Andrzej|Artur Andrzej]] || 72 || 11 || 83
+|-
+| 322 || [[User:Sebek Adamowicz|Sebek Adamowicz]] || 72 || 5 || 77
+|-
+| 323 || [[User:Marek Mazurkiewicz|Marek Mazurkiewicz]] || 72 || 0 || 72
+|-
+| 324 || [[User:Khan Tengri|Khan Tengri]] || 71 || 2 || 73
+|-
+| 325 || [[User:Katafrakt|Katafrakt]] || 71 || 0 || 71
+|-
+| 326 || [[User:Masti|Masti]] || 70 || 48 || 118
+|-
+| 327 || [[User:Jelo.lodz|Jelo.lodz]] || 69 || 2 || 71
+|-
+| 328 || [[User:Suziechan|Suziechan]] || 69 || 2 || 71
+|-
+| 329 || [[User:Szczecinolog|Szczecinolog]] || 69 || 2 || 71
+|-
+| 330 || [[User:Jacek Halicki|Jacek Halicki]] || 68 || 0 || 68
+|-
+| 331 || [[User:Doktor.opi|Doktor.opi]] || 68 || 0 || 68
+|-
+| 332 || [[User:NH35|NH35]] || 67 || 13 || 80
+|-
+| 333 || [[User:Staszek99|Staszek99]] || 67 || 6 || 73
+|-
+| 334 || [[User:Tashi|Tashi]] || 67 || 3 || 70
+|-
+| 335 || [[User:Kornelisahovit|Kornelisahovit]] || 67 || 0 || 67
+|-
+| 336 || [[User:Arvedui89|Arvedui89]] || 66 || 3 || 69
+|-
+| 337 || [[User:Lubinianin2|Lubinianin2]] || 66 || 0 || 66
+|-
+| 338 || [[User:Zala|Zala]] || 66 || 0 || 66
+|-
+| 339 || [[User:Ggolob|Ggolob]] || 65 || 1 || 66
+|-
+| 340 || [[User:Jakub10193|Jakub10193]] || 65 || 0 || 65
+|-
+| 341 || [[User:Omron|Omron]] || 65 || 0 || 65
+|-
+| 342 || [[User:Piotus|Piotus]] || 65 || 0 || 65
+|-
+| 343 || [[User:Jurek281|Jurek281]] || 64 || 0 || 64
+|-
+| 344 || [[User:Darecki3miasto|Darecki3miasto]] || 64 || 0 || 64
+|-
+| 345 || [[User:Kamil.ryy|Kamil.ryy]] || 63 || 2 || 65
+|-
+| 346 || [[User:Politicus|Politicus]] || 63 || 1 || 64
+|-
+| 347 || [[User:Kiełek|Kiełek]] || 63 || 0 || 63
+|-
+| 348 || [[User:Schabowy|Schabowy]] || 63 || 0 || 63
+|-
+| 349 || [[User:Skoczny Kacper|Skoczny Kacper]] || 63 || 0 || 63
+|-
+| 350 || [[User:Meo Hav|Meo Hav]] || 62 || 3 || 65
+|-
+| 351 || [[User:Refycul|Refycul]] || 62 || 3 || 65
+|-
+| 352 || [[User:LeComte|LeComte]] || 62 || 0 || 62
+|-
+| 353 || [[User:Jasiek054|Jasiek054]] || 61 || 1 || 62
+|-
+| 354 || [[User:Accomer|Accomer]] || 60 || 4 || 64
+|-
+| 355 || [[User:Wlodek k1|Wlodek k1]] || 60 || 3 || 63
+|-
+| 356 || [[User:John Belushi|John Belushi]] || 60 || 1 || 61
+|-
+| 357 || [[User:PuchaczTrado|PuchaczTrado]] || 60 || 1 || 61
+|-
+| 358 || [[User:Skoczwiski|Skoczwiski]] || 60 || 0 || 60
+|-
+| 359 || [[User:Warschauer|Warschauer]] || 60 || 0 || 60
+|-
+| 360 || [[User:Filip em|Filip em]] || 59 || 0 || 59
+|-
+| 361 || [[User:Eurohunter|Eurohunter]] || 58 || 1 || 59
+|-
+| 362 || [[User:Costamagica|Costamagica]] || 58 || 1 || 59
+|-
+| 363 || [[User:Tom a|Tom a]] || 58 || 1 || 59
+|-
+| 364 || [[User:BoskiBelmondo|BoskiBelmondo]] || 58 || 0 || 58
+|-
+| 365 || [[User:PatLover|PatLover]] || 58 || 0 || 58
+|-
+| 366 || [[User:Invisible kid|Invisible kid]] || 56 || 13 || 69
+|-
+| 367 || [[User:Mateusz Opasiński|Mateusz Opasiński]] || 56 || 0 || 56
+|-
+| 368 || [[User:Tama Fan|Tama Fan]] || 56 || 0 || 56
+|-
+| 369 || [[User:JackStrong12|JackStrong12]] || 55 || 5 || 60
+|-
+| 370 || [[User:Leszek Jańczuk|Leszek Jańczuk]] || 55 || 3 || 58
+|-
+| 371 || [[User:Koftra|Koftra]] || 55 || 1 || 56
+|-
+| 372 || [[User:Anicet|Anicet]] || 55 || 0 || 55
+|-
+| 373 || [[User:Birke|Birke]] || 55 || 0 || 55
+|-
+| 374 || [[User:Jacek555|Jacek555]] || 55 || 0 || 55
+|-
+| 375 || [[User:Vwsmok|Vwsmok]] || 55 || 0 || 55
+|-
+| 376 || [[User:Qba0202|Qba0202]] || 54 || 11 || 65
+|-
+| 377 || [[User:Bogic|Bogic]] || 54 || 5 || 59
+|-
+| 378 || [[User:Paweł Ziemian|Paweł Ziemian]] || 54 || 2 || 56
+|-
+| 379 || [[User:Vearthy|Vearthy]] || 54 || 0 || 54
+|-
+| 380 || [[User:Szdowk|Szdowk]] || 54 || 0 || 54
+|-
+| 381 || [[User:Rdswdn|Rdswdn]] || 54 || 0 || 54
+|-
+| 382 || [[User:Marccinus|Marccinus]] || 53 || 0 || 53
+|-
+| 383 || [[User:Wulfstan|Wulfstan]] || 53 || 0 || 53
+|-
+| 384 || [[User:Docxent|Docxent]] || 52 || 0 || 52
+|-
+| 385 || [[User:Thecmelion|Thecmelion]] || 52 || 0 || 52
+|-
+| 386 || [[User:Michelangelo122|Michelangelo122]] || 51 || 5 || 56
+|-
+| 387 || [[User:Mo Cuishle|Mo Cuishle]] || 51 || 4 || 55
+|-
+| 388 || [[User:Wireonek|Wireonek]] || 51 || 1 || 52
+|-
+| 389 || [[User:Adik7swiony|Adik7swiony]] || 51 || 0 || 51
+|-
+| 390 || [[User:Miko101|Miko101]] || 51 || 0 || 51
+|-
+| 391 || [[User:Arturo24|Arturo24]] || 50 || 1 || 51
+|-
+| 392 || [[User:Jacpr|Jacpr]] || 50 || 0 || 50
+|-
+| 393 || [[User:Litwin Gorliwy|Litwin Gorliwy]] || 50 || 0 || 50
+|-
+| 394 || [[User:Jadamta|Jadamta]] || 49 || 3 || 52
+|-
+| 395 || [[User:Drzazginho|Drzazginho]] || 49 || 0 || 49
+|-
+| 396 || [[User:Rychozol|Rychozol]] || 49 || 0 || 49
+|-
+| 397 || [[User:Deep21|Deep21]] || 48 || 0 || 48
+|-
+| 398 || [[User:Szczureq|Szczureq]] || 47 || 1 || 48
+|-
+| 399 || [[User:Egzicior|Egzicior]] || 47 || 1 || 48
+|-
+| 400 || [[User:Manga.rs|Manga.rs]] || 47 || 0 || 47
+|-
+| 401 || [[User:UczeńMarcinka|UczeńMarcinka]] || 47 || 0 || 47
+|-
+| 402 || [[User:Koval122|Koval122]] || 47 || 0 || 47
+|-
+| 403 || [[User:Miodzio3|Miodzio3]] || 46 || 0 || 46
+|-
+| 404 || [[User:Mikrosystem|Mikrosystem]] || 46 || 0 || 46
+|-
+| 405 || [[User:Tomasz91|Tomasz91]] || 45 || 3 || 48
+|-
+| 406 || [[User:Jakubkaja|Jakubkaja]] || 45 || 1 || 46
+|-
+| 407 || [[User:Tatooine1|Tatooine1]] || 45 || 0 || 45
+|-
+| 408 || [[User:LukaszM600|LukaszM600]] || 45 || 0 || 45
+|-
+| 409 || [[User:WujekJasiek|WujekJasiek]] || 45 || 0 || 45
+|-
+| 410 || [[User:Farary|Farary]] || 45 || 0 || 45
+|-
+| 411 || [[User:Quodvultdeus|Quodvultdeus]] || 45 || 0 || 45
+|-
+| 412 || [[User:Michozord|Michozord]] || 44 || 13 || 57
+|-
+| 413 || [[User:Tremendo|Tremendo]] || 44 || 0 || 44
+|-
+| 414 || [[User:Dr. Dunkenstein|Dr. Dunkenstein]] || 43 || 4 || 47
+|-
+| 415 || [[User:Byrek|Byrek]] || 43 || 1 || 44
+|-
+| 416 || [[User:Sławek Borewicz|Sławek Borewicz]] || 43 || 0 || 43
+|-
+| 417 || [[User:Artpoz5|Artpoz5]] || 43 || 0 || 43
+|-
+| 418 || [[User:Kshywy|Kshywy]] || 43 || 0 || 43
+|-
+| 419 || [[User:Katrina Swinnley|Katrina Swinnley]] || 43 || 0 || 43
+|-
+| 420 || [[User:DrPZ|DrPZ]] || 42 || 189 || 231
+|-
+| 421 || [[User:Pyciek|Pyciek]] || 42 || 7 || 49
+|-
+| 422 || [[User:Qrzysztof|Qrzysztof]] || 42 || 2 || 44
+|-
+| 423 || [[User:Santer|Santer]] || 42 || 1 || 43
+|-
+| 424 || [[User:Piolodiusz|Piolodiusz]] || 42 || 0 || 42
+|-
+| 425 || [[User:Shilen|Shilen]] || 42 || 0 || 42
+|-
+| 426 || [[User:MaPet92|MaPet92]] || 42 || 0 || 42
+|-
+| 427 || [[User:Arekuba|Arekuba]] || 41 || 14 || 55
+|-
+| 428 || [[User:Robert Kania|Robert Kania]] || 41 || 3 || 44
+|-
+| 429 || [[User:Abraham|Abraham]] || 41 || 2 || 43
+|-
+| 430 || [[User:Filip0402|Filip0402]] || 41 || 1 || 42
+|-
+| 431 || [[User:Bogdan Starościak|Bogdan Starościak]] || 41 || 1 || 42
+|-
+| 432 || [[User:EwkaC|EwkaC]] || 41 || 0 || 41
+|-
+| 433 || [[User:M1llx|M1llx]] || 40 || 3 || 43
+|-
+| 434 || [[User:Four.mg|Four.mg]] || 40 || 0 || 40
+|-
+| 435 || [[User:Kadstos|Kadstos]] || 40 || 0 || 40
+|-
+| 436 || [[User:Drzewianin|Drzewianin]] || 39 || 2 || 41
+|-
+| 437 || [[User:Tymon.r|Tymon.r]] || 39 || 1 || 40
+|-
+| 438 || [[User:Lamashtu2006|Lamashtu2006]] || 39 || 1 || 40
+|-
+| 439 || [[User:Yurek88|Yurek88]] || 39 || 0 || 39
+|-
+| 440 || [[User:Gacus69|Gacus69]] || 39 || 0 || 39
+|-
+| 441 || [[User:Botev|Botev]] || 39 || 0 || 39
+|-
+| 442 || [[User:Januszex|Januszex]] || 38 || 107 || 145
+|-
+| 443 || [[User:Pibwl|Pibwl]] || 38 || 0 || 38
+|-
+| 444 || [[User:Darpaw|Darpaw]] || 38 || 0 || 38
+|-
+| 445 || [[User:Metoody|Metoody]] || 38 || 0 || 38
+|-
+| 446 || [[User:Niko2002|Niko2002]] || 38 || 0 || 38
+|-
+| 447 || [[User:Skansen|Skansen]] || 38 || 0 || 38
+|-
+| 448 || [[User:Patrol110|Patrol110]] || 37 || 2 || 39
+|-
+| 449 || [[User:Margoz|Margoz]] || 37 || 0 || 37
+|-
+| 450 || [[User:Zadrzewiański|Zadrzewiański]] || 37 || 0 || 37
+|-
+| 451 || [[User:Oleo|Oleo]] || 37 || 0 || 37
+|-
+| 452 || [[User:Magyar062|Magyar062]] || 37 || 0 || 37
+|-
+| 453 || [[User:Ingene|Ingene]] || 37 || 0 || 37
+|-
+| 454 || [[User:Andrzej19|Andrzej19]] || 37 || 0 || 37
+|-
+| 455 || [[User:Bukaj|Bukaj]] || 37 || 0 || 37
+|-
+| 456 || [[User:Michaoll|Michaoll]] || 36 || 20 || 56
+|-
+| 457 || [[User:Piotr Michalak|Piotr Michalak]] || 36 || 12 || 48
+|-
+| 458 || [[User:Grotesque|Grotesque]] || 36 || 9 || 45
+|-
+| 459 || [[User:Paul Virilio|Paul Virilio]] || 36 || 1 || 37
+|-
+| 460 || [[User:ArturM|ArturM]] || 36 || 1 || 37
+|-
+| 461 || [[User:Lukasz19930915|Lukasz19930915]] || 36 || 0 || 36
+|-
+| 462 || [[User:Tcheinava|Tcheinava]] || 36 || 0 || 36
+|-
+| 463 || [[User:Olvido|Olvido]] || 36 || 0 || 36
+|-
+| 464 || [[User:LukaszKatlewa|LukaszKatlewa]] || 36 || 0 || 36
+|-
+| 465 || [[User:Daryja96|Daryja96]] || 36 || 0 || 36
+|-
+| 466 || [[User:Patelnia|Patelnia]] || 35 || 4 || 39
+|-
+| 467 || [[User:Leszko20|Leszko20]] || 35 || 0 || 35
+|-
+| 468 || [[User:Festence|Festence]] || 35 || 0 || 35
+|-
+| 469 || [[User:Makary|Makary]] || 35 || 0 || 35
+|-
+| 470 || [[User:Enstropia|Enstropia]] || 34 || 2 || 36
+|-
+| 471 || [[User:Mmm5|Mmm5]] || 34 || 1 || 35
+|-
+| 472 || [[User:Lancelot|Lancelot]] || 34 || 0 || 34
+|-
+| 473 || [[User:Bielsko|Bielsko]] || 34 || 0 || 34
+|-
+| 474 || [[User:Magiera188|Magiera188]] || 34 || 0 || 34
+|-
+| 475 || [[User:Ankry|Ankry]] || 34 || 0 || 34
+|-
+| 476 || [[User:MBi|MBi]] || 34 || 0 || 34
+|-
+| 477 || [[User:Teukros|Teukros]] || 33 || 26 || 59
+|-
+| 478 || [[User:Jeż0216|Jeż0216]] || 33 || 13 || 46
+|-
+| 479 || [[User:Cyfrowy|Cyfrowy]] || 33 || 1 || 34
+|-
+| 480 || [[User:Maciej1977|Maciej1977]] || 33 || 1 || 34
+|-
+| 481 || [[User:Volodymyr D-k|Volodymyr D-k]] || 33 || 0 || 33
+|-
+| 482 || [[User:Zero|Zero]] || 33 || 0 || 33
+|-
+| 483 || [[User:Kocio|Kocio]] || 33 || 0 || 33
+|-
+| 484 || [[User:Renaud|Renaud]] || 33 || 0 || 33
+|-
+| 485 || [[User:Matman z Lublina|Matman z Lublina]] || 32 || 7 || 39
+|-
+| 486 || [[User:Witia|Witia]] || 32 || 0 || 32
+|-
+| 487 || [[User:Żyrafał|Żyrafał]] || 32 || 0 || 32
+|-
+| 488 || [[User:Majonez truskawkowy|Majonez truskawkowy]] || 32 || 0 || 32
+|-
+| 489 || [[User:Wodnik11|Wodnik11]] || 31 || 49 || 80
+|-
+| 490 || [[User:Jrmo|Jrmo]] || 31 || 0 || 31
+|-
+| 491 || [[User:Shounen|Shounen]] || 31 || 0 || 31
+|-
+| 492 || [[User:MaKa|MaKa]] || 31 || 0 || 31
+|-
+| 493 || [[User:Stojan212|Stojan212]] || 31 || 0 || 31
+|-
+| 494 || [[User:Macedo|Macedo]] || 30 || 0 || 30
+|-
+| 495 || [[User:Poznaniak|Poznaniak]] || 30 || 0 || 30
+|-
+| 496 || [[User:Luki4812|Luki4812]] || 29 || 53 || 82
+|-
+| 497 || [[User:Kicior99|Kicior99]] || 29 || 2 || 31
+|-
+| 498 || [[User:Bogdan1989|Bogdan1989]] || 29 || 1 || 30
+|-
+| 499 || [[User:Borowiecki.km|Borowiecki.km]] || 29 || 0 || 29
+|-
+| 500 || [[User:Airwolf|Airwolf]] || 29 || 0 || 29
+|-
+| 501 || [[User:Fiszka|Fiszka]] || 29 || 0 || 29
+|-
+| 502 || [[User:Xmichciox|Xmichciox]] || 29 || 0 || 29
+|-
+| 503 || [[User:Tarnoob|Tarnoob]] || 29 || 0 || 29
+|-
+| 504 || [[User:Pilot Pirx|Pilot Pirx]] || 28 || 0 || 28
+|-
+| 505 || [[User:GregX21|GregX21]] || 28 || 0 || 28
+|-
+| 506 || [[User:Zaluda96|Zaluda96]] || 28 || 0 || 28
+|-
+| 507 || [[User:1923|1923]] || 28 || 0 || 28
+|-
+| 508 || [[User:Archivald.|Archivald.]] || 28 || 0 || 28
+|-
+| 509 || [[User:MrDark|MrDark]] || 28 || 0 || 28
+|-
+| 510 || [[User:Mechtal|Mechtal]] || 28 || 0 || 28
+|-
+| 511 || [[User:Marathon~plwiki|Marathon~plwiki]] || 28 || 0 || 28
+|-
+| 512 || [[User:Infsai|Infsai]] || 27 || 2 || 29
+|-
+| 513 || [[User:Ency|Ency]] || 27 || 1 || 28
+|-
+| 514 || [[User:DayronPL|DayronPL]] || 27 || 1 || 28
+|-
+| 515 || [[User:Kontrola|Kontrola]] || 27 || 0 || 27
+|-
+| 516 || [[User:Pizel2001|Pizel2001]] || 27 || 0 || 27
+|-
+| 517 || [[User:Lukasb1992|Lukasb1992]] || 27 || 0 || 27
+|-
+| 518 || [[User:Ejdzej|Ejdzej]] || 27 || 0 || 27
+|-
+| 519 || [[User:Vassago|Vassago]] || 27 || 0 || 27
+|-
+| 520 || [[User:Budd Le Toux|Budd Le Toux]] || 27 || 0 || 27
+|-
+| 521 || [[User:Michalbyz|Michalbyz]] || 27 || 0 || 27
+|-
+| 522 || [[User:Olos88|Olos88]] || 26 || 19 || 45
+|-
+| 523 || [[User:KamillaŚ|KamillaŚ]] || 26 || 13 || 39
+|-
+| 524 || [[User:LukeEmski|LukeEmski]] || 26 || 5 || 31
+|-
+| 525 || [[User:Grzes1966|Grzes1966]] || 26 || 2 || 28
+|-
+| 526 || [[User:Karol Szapsza|Karol Szapsza]] || 26 || 1 || 27
+|-
+| 527 || [[User:Kuba Walczak|Kuba Walczak]] || 26 || 0 || 26
+|-
+| 528 || [[User:Francesco 13|Francesco 13]] || 26 || 0 || 26
+|-
+| 529 || [[User:Wajmera|Wajmera]] || 26 || 0 || 26
+|-
+| 530 || [[User:Kamilx2x2|Kamilx2x2]] || 26 || 0 || 26
+|-
+| 531 || [[User:Jdx|Jdx]] || 26 || 0 || 26
+|-
+| 532 || [[User:Qvaxy|Qvaxy]] || 26 || 0 || 26
+|-
+| 533 || [[User:Wolfgang121|Wolfgang121]] || 26 || 0 || 26
+|-
+| 534 || [[User:Mike89|Mike89]] || 26 || 0 || 26
+|-
+| 535 || [[User:Zmiany Solarne|Zmiany Solarne]] || 25 || 7 || 32
+|-
+| 536 || [[User:Celina Strzelecka (WMPL)|Celina Strzelecka (WMPL)]] || 25 || 6 || 31
+|-
+| 537 || [[User:Nostrix|Nostrix]] || 25 || 1 || 26
+|-
+| 538 || [[User:Kordiann|Kordiann]] || 25 || 1 || 26
+|-
+| 539 || [[User:Wert001|Wert001]] || 25 || 0 || 25
+|-
+| 540 || [[User:Andrzej Garwoliński|Andrzej Garwoliński]] || 25 || 0 || 25
+|-
+| 541 || [[User:Arolu|Arolu]] || 25 || 0 || 25
+|-
+| 542 || [[User:Zurbanski|Zurbanski]] || 25 || 0 || 25
+|-
+| 543 || [[User:Kynikos|Kynikos]] || 25 || 0 || 25
+|-
+| 544 || [[User:Konarski|Konarski]] || 25 || 0 || 25
+|-
+| 545 || [[User:Nous|Nous]] || 25 || 0 || 25
+|-
+| 546 || [[User:Sloggi|Sloggi]] || 24 || 62 || 86
+|-
+| 547 || [[User:Hobbicik|Hobbicik]] || 24 || 1 || 25
+|-
+| 548 || [[User:Kirsan|Kirsan]] || 24 || 0 || 24
+|-
+| 549 || [[User:Kamilkasperek|Kamilkasperek]] || 24 || 0 || 24
+|-
+| 550 || [[User:Morus kot|Morus kot]] || 24 || 0 || 24
+|-
+| 551 || [[User:Asteq|Asteq]] || 24 || 0 || 24
+|-
+| 552 || [[User:Milagros aal|Milagros aal]] || 23 || 18 || 41
+|-
+| 553 || [[User:Pesell|Pesell]] || 23 || 3 || 26
+|-
+| 554 || [[User:Mariusz Swornóg|Mariusz Swornóg]] || 23 || 2 || 25
+|-
+| 555 || [[User:Krzysiek111|Krzysiek111]] || 23 || 0 || 23
+|-
+| 556 || [[User:Martinbutton|Martinbutton]] || 23 || 0 || 23
+|-
+| 557 || [[User:Alex946|Alex946]] || 23 || 0 || 23
+|-
+| 558 || [[User:Var007|Var007]] || 23 || 0 || 23
+|-
+| 559 || [[User:Albertus teolog|Albertus teolog]] || 23 || 0 || 23
+|-
+| 560 || [[User:Devanaghari|Devanaghari]] || 23 || 0 || 23
+|-
+| 561 || [[User:Rosewood|Rosewood]] || 22 || 5 || 27
+|-
+| 562 || [[User:Jcubic|Jcubic]] || 22 || 1 || 23
+|-
+| 563 || [[User:Marakuja|Marakuja]] || 22 || 0 || 22
+|-
+| 564 || [[User:Henry39|Henry39]] || 22 || 0 || 22
+|-
+| 565 || [[User:Fugiel|Fugiel]] || 22 || 0 || 22
+|-
+| 566 || [[User:Tele2001|Tele2001]] || 22 || 0 || 22
+|-
+| 567 || [[User:M gol|M gol]] || 22 || 0 || 22
+|-
+| 568 || [[User:Wszystko jest pozyczone|Wszystko jest pozyczone]] || 21 || 4 || 25
+|-
+| 569 || [[User:Marekos|Marekos]] || 21 || 3 || 24
+|-
+| 570 || [[User:Grzegorz Wysocki|Grzegorz Wysocki]] || 21 || 2 || 23
+|-
+| 571 || [[User:Kalamarnica|Kalamarnica]] || 21 || 1 || 22
+|-
+| 572 || [[User:Szczot3k|Szczot3k]] || 21 || 0 || 21
+|-
+| 573 || [[User:Jaroz86|Jaroz86]] || 21 || 0 || 21
+|-
+| 574 || [[User:Jacek rybak|Jacek rybak]] || 21 || 0 || 21
+|-
+| 575 || [[User:AI~plwiki|AI~plwiki]] || 21 || 0 || 21
+|-
+| 576 || [[User:Filemon|Filemon]] || 21 || 0 || 21
+|-
+| 577 || [[User:Tslipa|Tslipa]] || 21 || 0 || 21
+|-
+| 578 || [[User:Iszkowski|Iszkowski]] || 20 || 2 || 22
+|-
+| 579 || [[User:Olaf|Olaf]] || 20 || 1 || 21
+|-
+| 580 || [[User:Mozarteus|Mozarteus]] || 20 || 1 || 21
+|-
+| 581 || [[User:Dainava|Dainava]] || 20 || 0 || 20
+|-
+| 582 || [[User:Zack|Zack]] || 20 || 0 || 20
+|-
+| 583 || [[User:Aotearoa|Aotearoa]] || 20 || 0 || 20
+|-
+| 584 || [[User:Vebace|Vebace]] || 20 || 0 || 20
+|-
+| 585 || [[User:Jakubhal|Jakubhal]] || 20 || 0 || 20
+|-
+| 586 || [[User:SongO|SongO]] || 20 || 0 || 20
+|-
+| 587 || [[User:Absolwent|Absolwent]] || 20 || 0 || 20
+|-
+| 588 || [[User:P maciej|P maciej]] || 20 || 0 || 20
+|-
+| 589 || [[User:Jotbe84|Jotbe84]] || 20 || 0 || 20
+|-
+| 590 || [[User:Rapaz|Rapaz]] || 20 || 0 || 20
+|-
+| 591 || [[User:Domaszk|Domaszk]] || 20 || 0 || 20
+|-
+| 592 || [[User:BarStr|BarStr]] || 20 || 0 || 20
+|-
+| 593 || [[User:Erixson|Erixson]] || 20 || 0 || 20
+|-
+| 594 || [[User:Le5zek|Le5zek]] || 19 || 70 || 89
+|-
+| 595 || [[User:VanWiel|VanWiel]] || 19 || 1 || 20
+|-
+| 596 || [[User:Radwan|Radwan]] || 19 || 1 || 20
+|-
+| 597 || [[User:BrakPomysłuNaNazwę|BrakPomysłuNaNazwę]] || 19 || 0 || 19
+|-
+| 598 || [[User:Augurmm|Augurmm]] || 19 || 0 || 19
+|-
+| 599 || [[User:Piotrus|Piotrus]] || 19 || 0 || 19
+|-
+| 600 || [[User:Aleksander213|Aleksander213]] || 19 || 0 || 19
+|}
