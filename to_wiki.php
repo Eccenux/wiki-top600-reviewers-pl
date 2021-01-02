@@ -12,8 +12,12 @@
 
 date_default_timezone_set('Europe/Warsaw');
 
+/**
 $inputPath = 'quarry-reviewers-pl-2019.json';
 $outputPath = "reviewers-pl.wiki";
+/**/
+$inputPath = 'quarry-reviewers-pl-2020.json';
+$outputPath = "reviewers-pl-2020.wiki";
 /**/
 $inputPath = 'quarry-reviewers-pl-all.json';
 $outputPath = "reviewers-pl-all.wiki";
