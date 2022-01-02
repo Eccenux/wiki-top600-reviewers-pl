@@ -8,8 +8,10 @@ TOP600 reviewers on pl.wiki
 
 ## Links ##
 
-2020 reviewers query:
-https://quarry.wmflabs.org/query/50976
+<del>2020 reviewers query:
+https://quarry.wmflabs.org/query/50976</del>
+2021 reviewers query:
+https://quarry.wmcloud.org/query/61189
 
 All-time query (kroczący):
 https://quarry.wmflabs.org/query/24267
