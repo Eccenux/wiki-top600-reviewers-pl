@@ -10,6 +10,7 @@ TOP600 reviewers on pl.wiki
 
 <del>2020 reviewers query:
 https://quarry.wmflabs.org/query/50976</del>
+
 2021 reviewers query:
 https://quarry.wmcloud.org/query/61189
 
