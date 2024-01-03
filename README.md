@@ -2,17 +2,18 @@
 TOP600 reviewers on pl.wiki
 
 1. Run query.
+	Edit https://quarry.wmcloud.org/query/70240
+	Replace ` 202x` with ` 202y`
+	Submit Query
 2. Save as JSON (plain, not lines).
-3. Edit `to_wiki.php` (adjust IO paths).
-4. Run `to_wiki.php`.
+3. Beautify JSON (e.g. in VSC).
+4. Edit `to_wiki.php` (adjust IO paths).
+5. Run `to_wiki.php`.
 
 ## Links ##
 
-<del>2020 reviewers query:
-https://quarry.wmflabs.org/query/50976</del>
-
-2021 reviewers query:
-https://quarry.wmcloud.org/query/61189
+202x reviewers query:
+https://quarry.wmcloud.org/query/70240
 
 All-time query (kroczący):
 https://quarry.wmflabs.org/query/24267
