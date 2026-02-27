@@ -16,10 +16,10 @@ date_default_timezone_set('Europe/Warsaw');
 $inputPath = 'quarry-reviewers-pl-2019.json';
 $outputPath = "reviewers-pl.wiki";
 /**/
-$year = "2023";
+$year = "2025";
 $inputPath = "quarry-reviewers-pl-$year.json";
 $outputPath = "reviewers-pl-$year.wiki";
-/**
+/**/
 $inputPath = 'quarry-reviewers-pl-all.json';
 $outputPath = "reviewers-pl-all.wiki";
 /**/
@@ -40,9 +40,9 @@ class TopReviewer {
 		global $columns;
 		
 		$this->actor_name = $row[$columns['actor_name']];
-		$this->review_count = $row[$columns['review_count']];
-		$this->review_count_intial = $row[$columns['review_count_intial']];
-		$this->review_count_total = $row[$columns['review_count_total']];
+		$this->review_count = number_format((int)$row[$columns['review_count']], 0, '', ' ');
+		$this->review_count_intial = number_format((int)$row[$columns['review_count_intial']], 0, '', ' ');
+		$this->review_count_total = number_format((int)$row[$columns['review_count_total']], 0, '', ' ');
 	}
 }
 
